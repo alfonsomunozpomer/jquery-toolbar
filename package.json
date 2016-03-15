@@ -1,6 +1,6 @@
 {
-  "name": "toolbar.js",
-  "title": "Toolbar.js",
+  "name": "jquery-toolbar.js",
+  "title": "jQuery Toolbar.js",
   "description": "A jQuery plugin that creates tooltip style toolbars.",
   "version": "1.1.0",
   "homepage": "http://paulkinzett.github.com/toolbar",
