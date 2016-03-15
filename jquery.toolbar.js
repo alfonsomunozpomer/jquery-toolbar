@@ -14,6 +14,9 @@
  * <https://raw.github.com/paulkinzett/toolbar/master/LICENSE.txt>
  */
 
+var $ = require('jquery');
+var jQuery = $;
+
 if ( typeof Object.create !== 'function' ) {
     Object.create = function( obj ) {
         function F() {}
