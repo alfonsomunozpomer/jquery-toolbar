@@ -8,6 +8,7 @@
     "name": "Paul Kinzett",
     "url": "http://kinzett.co.nz/"
   },
+  "main": "jquery.toolbar.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/paulkinzett/toolbar.git"
