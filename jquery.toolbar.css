@@ -136,10 +136,8 @@
 .tool-item {
   height: 100%;
   display: block;
-  width: 20px;
-  height: 20px;
   text-align: center;
-  margin: 5px;
+  padding: 5px;
   transition: none;
 }
 .tool-item > .fa {
