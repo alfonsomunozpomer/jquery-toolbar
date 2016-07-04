@@ -134,10 +134,13 @@
   border-left: 0;
 }
 .tool-item {
+  box-sizing: initial;
   height: 100%;
   display: block;
+  width: 20px;
+  height: 20px;
   text-align: center;
-  padding: 5px;
+  padding: 10px;
   transition: none;
 }
 .tool-item > .fa {
